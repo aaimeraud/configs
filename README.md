@@ -1,15 +1,7 @@
 # configs
 my configurations files. 
 
-## requirements
-### my favorite nerdfont
-
-[jetbrains mono](https://www.jetbrains.com/lp/mono/)
-
-### [code](https://code.visualstudio.com/) extensions
-
-[prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [error lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-
-|tool|config file|
-|---|--|
-|vscode|[settings.json](./settings.json)|
+## all the files
+|tool|config file|requirements|
+|---|--|--|
+|[code](https://code.visualstudio.com/)|[settings.json](./settings.json)|[jetbrains mono font](https://www.jetbrains.com/lp/mono/), [prettier (linter)](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [error lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)|
