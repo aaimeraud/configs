@@ -1,0 +1,13 @@
+{
+  "editor.fontFamily": "Jetbrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 22,
+  "editor.letterSpacing": 0.5,
+  "editor.renderWhitespace": "boundary",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "editor.lineNumbers": "relative",
+}
