@@ -1,13 +1,22 @@
 {
+  // Font
   "editor.fontFamily": "Jetbrains Mono",
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
   "editor.lineHeight": 22,
   "editor.letterSpacing": 0.5,
+  
+  // Editor 
   "editor.renderWhitespace": "boundary",
-  "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.wordWrap": "on",
-  "files.autoSave": "afterDelay",
   "editor.lineNumbers": "relative",
+  
+  // Formatting & Auto-Save
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  
+  // Theme
+  "window.autoDetectColorScheme": false,
+  "workbench.colorTheme": "JetBrains Dark Theme",
 }
