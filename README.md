@@ -1,5 +1,5 @@
 # configs
-my configurations files. 
+my computer broke so i'll keep my configurations files here in case I ever need them. 
 
 ## all the files
 |tool|config file|requirements|
