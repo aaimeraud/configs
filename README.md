@@ -5,3 +5,4 @@ my computer broke so i'll keep my configurations files here in case I ever need 
 |tool|config file|requirements|
 |---|--|--|
 |[code](https://code.visualstudio.com/)|[settings.json](./settings.json)|[jetbrains mono font](https://www.jetbrains.com/lp/mono/), [prettier (linter)](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode), [error lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)|
+|[next.js](https://nextjs.org/)|[my starter](https://github.com/aaimeraud/next-starter/tree/main)||
