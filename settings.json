@@ -1,4 +1,27 @@
 {
+  // Custom tab names
+  "workbench.editor.customLabels.patterns": {
+   "**/**/**/*.tsx": "@${dirname} - ${filename}",
+   "**/**/**/*.ts": "@${dirname} - ${filename}",
+   "**/**/**/*.css": "@${dirname} - ${filename}",
+   "**/*.*": "/ - ${filename}"
+},
+  
+  // linting & formatting
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+   "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.organizeImports": "always",
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+
+  // TS/JS : use workspace version
+  "js/ts.tsdk.path": "node_modules/typescript/lib",
+  
   // Font
   "editor.fontFamily": "Jetbrains Mono",
   "editor.fontLigatures": true,
@@ -8,13 +31,8 @@
   
   // Editor 
   "editor.renderWhitespace": "boundary",
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.wordWrap": "on",
   "editor.lineNumbers": "relative",
-  
-  // Formatting & Auto-Save
-  "editor.formatOnSave": true,
-  "files.autoSave": "afterDelay",
   
   // Theme
   "window.autoDetectColorScheme": false,
