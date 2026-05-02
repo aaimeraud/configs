@@ -1,11 +1,12 @@
 {
   // Custom tab names
-  "workbench.editor.customLabels.patterns": {
-   "**/**/**/*.tsx": "@${dirname} - ${filename}",
-   "**/**/**/*.ts": "@${dirname} - ${filename}",
-   "**/**/**/*.css": "@${dirname} - ${filename}",
-   "**/*.*": "/ - ${filename}"
-},
+    "workbench.editor.customLabels.patterns": {
+    "src/**/**/*.tsx": "@${dirname} - ${filename}",
+    "src/**/**/*.ts": "@${dirname} - ${filename}",
+    "src/**/**/*.css": "@${dirname} - ${filename}",
+    "**/*.*": "/ - ${filename}"
+  },
+
   
   // linting & formatting
   "editor.defaultFormatter": "esbenp.prettier-vscode",
