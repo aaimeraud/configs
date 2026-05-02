@@ -6,7 +6,6 @@
     "src/**/**/*.css": "@${dirname} - ${filename}",
     "**/*.*": "/ - ${filename}"
   },
-
   
   // linting & formatting
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -26,14 +25,13 @@
   // Font
   "editor.fontFamily": "Jetbrains Mono",
   "editor.fontLigatures": true,
-  "editor.fontSize": 14,
-  "editor.lineHeight": 22,
-  "editor.letterSpacing": 0.5,
-  
-  // Editor 
-  "editor.renderWhitespace": "boundary",
-  "editor.wordWrap": "on",
+  "editor.fontSize": 13,
+  "editor.lineHeight": 23,
+  "editor.letterSpacing": 0.4,
+
+  // Editor
   "editor.lineNumbers": "relative",
+  "editor.wordWrap": "on",
   
   // Theme
   "window.autoDetectColorScheme": false,
