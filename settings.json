@@ -37,4 +37,10 @@
   // Theme
   "window.autoDetectColorScheme": false,
   "workbench.colorTheme": "JetBrains Dark Theme",
+
+  // Shadcn schema
+  "json.schemaDownload.trustedDomains": {
+    "https://ui.shadcn.com/": true,
+    "https://ui.shadcn.com/schema.json": true
+  }
 }
